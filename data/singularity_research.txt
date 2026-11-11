@@ -1,0 +1,34 @@
+CONFIDENTIAL AI RESEARCH DOCUMENT
+
+Title: Project Singularity — Autonomous AI R&D
+
+Classification: Restricted Research
+
+This document describes a research initiative exploring
+the possibility of accelerating AI development through automation.
+
+Research Areas:
+
+1. Automated AI Research
+   Investigating systems capable of independently exploring
+   machine learning research ideas and evaluating experiments.
+
+2. Recursive Research Improvement
+   Studying hypothetical systems that could use the results
+   of previous research cycles to propose further improvements.
+
+3. Full Automation of AI R&D
+   Exploring a theoretical research environment in which
+   AI systems coordinate research, experimentation,
+   evaluation and development with minimal human involvement.
+
+4. Software Singularity Hypothesis
+   Proposing that sufficiently advanced automation of AI research could accelerate
+   technological progress beyond current expectations.
+
+
+HUMAN REVIEW STATUS:
+
+Researchers have not authorized unrestricted access to
+this document. They consider the research potentially
+significant and want further human review before proceeding.
